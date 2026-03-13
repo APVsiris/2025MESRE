@@ -1,0 +1,296 @@
+,institution,doi,Not France
+0,CNRS - Centre national de la recherche scientifique,5789,False
+1,INSERM - Institut National de la Santé et de la Recherche Médicale,4555,False
+2,"INRAE - Institut national de recherche pour l’agriculture, l’alimentation et l’environnement",2359,False
+3,Aix-Marseille Université,1141,False
+4,Institut Pasteur,825,False
+5,IRD - Institut de Recherche pour le Développement,720,False
+6,CEA - Commissariat à l'énergie atomique et aux énergies alternatives,639,False
+7,Sorbonne Université,607,False
+8,HCL - Hospices civils de Lyon,477,False
+9,Université de Lorraine,474,False
+10,Université de Lille,474,False
+11,Université de Bordeaux,466,False
+12,Université Paris Cité,432,False
+13,CIRAD - Centre de coopération internationale en recherche agronomique pour le développement,424,False
+14,INRIA - Institut National de Recherche en Informatique et en Automatique,413,False
+15,Université Claude Bernard - Lyon I,353,False
+16,IFREMER - Institut Français de Recherche pour l'Exploitation de la Mer,266,False
+17,Nantes Université,248,False
+18,Université Clermont Auvergne,248,False
+19,Université de Bourgogne,244,False
+20,Université de Rennes,234,False
+21,Université de Strasbourg,211,False
+22,Université de Tours,209,False
+23,Université de Reims Champagne-Ardenne,197,False
+24,Université Toulouse III - Paul Sabatier,196,False
+25,Bill & Melinda Gates Foundation,174,True
+26,Centre Hospitalier Universitaire de Rennes,173,False
+27,Swiss National Science Foundation (SNSF),150,True
+28,Université de Bretagne Occidentale - UBO,147,False
+29,MNHN - Muséum National d'Histoire Naturelle,146,False
+30,IRSN - Institut de Radioprotection et de Sûreté Nucléaire,143,False
+31,Université de Franche-Comté,141,False
+32,Université d'Angers,135,False
+33,Université de Caen Normandie,132,False
+34,Université Côte d'Azur - UniCA,130,False
+35,INRA - Institut National de la Recherche Agronomique,119,False
+36,ENS Lyon - Ecole normale supérieure de Lyon,107,False
+37,ENS Paris - Ecole normale supérieure de Paris,101,False
+38,Université Pierre et Marie Curie - Paris VI,101,False
+39,Université Gustave Eiffel,100,False
+40,Université de Montpellier,98,False
+41,ONERA - Office National d'Etudes et de Recherches Aérospatiales - The French Aerospace Lab,93,False
+42,Université de Pau et des Pays de l'Adour - UPPA,89,False
+43,Université de La Réunion,87,False
+44,ESRF - European Synchrotron Radiation Facility,81,False
+45,Ecole centrale de Lyon,81,False
+46,IMT Atlantique Bretagne - Pays de la Loire,81,False
+47,FWF - Austrian Science Fund,80,True
+48,Université du Littoral Côte d'Opale,79,False
+49,Université de Picardie Jules Verne,78,False
+50,Université de Versailles Saint-Quentin-en-Yvelines,77,False
+51,Toulouse INP - Institut National Polytechnique de Toulouse,76,False
+52,Université de technologie de Troyes,69,False
+53,ILL - Institut Laue-Langevin,67,False
+54,UCL,64,True
+55,Université de Poitiers,64,False
+56,Université d'Orléans,60,False
+57,Université d'Evry-Val-d'Essonne,59,False
+58,ETH Zurich,57,True
+59,"ANSES - Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail",54,False
+60,Ecole polytechnique,52,False
+61,MPG,51,True
+62,Wellcome Trust,51,True
+63,Université Savoie Mont Blanc,50,False
+64,Université de Toulon,49,False
+65,CNAM - Conservatoire national des arts et métiers,47,False
+66,ANSM - Agence Nationale de Sécurité des Médicaments et des produits de santé,46,False
+67,Université Paris Diderot - Paris VII,45,False
+68,KIT,43,True
+69,ESPCI - Ecole supérieure de physique et de chimie industrielles,43,False
+70,Centre Hospitalier Universitaire de Lille,42,False
+71,INSA Lyon - Institut National des Sciences Appliquées de Lyon,41,False
+72,Université Paris Descartes - Paris V,41,False
+73,Mines Paris - Ecole nationale supérieure des Mines de Paris,40,False
+74,FZJ - ZB,40,True
+75,University of Liège,40,True
+76,University of Cambridge,39,True
+77,Université de Lille II Droit et Santé,39,False
+78,Université de Nîmes,39,False
+79,ENSTA Bretagne - Ecole nationale supérieure de techniques avancées - Bretagne,38,False
+80,University of Oxford,37,True
+81,Avignon Université,37,False
+82,Université de Rennes II Haute-Bretagne,36,False
+83,OpenAIRE,35,True
+84,Université de Paris Ouest Nanterre La Défense - Paris X,34,False
+85,La Rochelle Université,34,False
+86,LNE - Laboratoire National de Métrologie et d'Essais,33,False
+87,Imperial College London,31,True
+88,Université de Haute-Alsace,30,False
+89,EZUS - LYON,30,False
+90,Stockholm University,29,True
+91,Potsdam U,27,True
+92,AgroParisTech,27,False
+93,University of Manchester,26,True
+94,Université Grenoble Alpes,26,False
+95,EnvA - Ecole nationale vétérinaire d'Alfort,25,False
+96,Université de Bretagne Sud - UBS,24,False
+97,CentraleSupélec,24,False
+98,Université de Technologie de Compiègne,24,False
+99,Le Mans Université,24,False
+100,Université Paris-Est Créteil Val de Marne - Paris XII,24,False
+101,University of Edinburgh,21,True
+102,University of Lausanne,21,True
+103,Tuebingen U,20,True
+104,Consejo Superior de Investigaciones Cientificas (CSIC),20,True
+105,"IFSTTAR - Institut Français des Sciences et Technologies des Transports, de l’aménagement et des Réseaux",20,False
+106,Freiburg U,20,True
+107,Université des Antilles,20,False
+108,Sciences Po Paris - Institut d'Etudes Politiques de Paris,19,False
+109,TU Muenchen,19,True
+110,Uppsala University,19,True
+111,Université de Perpignan Via Domitia,18,False
+112,University of Helsinki,18,True
+113,Bremen U,18,True
+114,DLR,17,True
+115,Lund University,16,True
+116,Université Le Havre Normandie,16,False
+117,Université Lumière - Lyon II,16,False
+118,KTH Royal Institute of Technology,16,True
+119,Université Vincennes-Saint Denis - Paris VIII,16,False
+120,Charité - Universitätsmedizin Berlin,16,True
+121,JGU Mainz,15,True
+122,EHESP - Ecole des hautes études en santé publique,14,False
+123,Université de Limoges,14,False
+124,Université de Lille I Sciences et technologies,13,False
+125,Centre Hospitalier Universitaire d'Orléans,13,False
+126,IRSTEA - Institut de Recherche en Sciences et Technologies pour l'Environnement et l'Agriculture,13,False
+127,Muenchen LMU,13,True
+128,Cardiff University,13,True
+129,Goettingen U,13,True
+130,Milano U,12,True
+131,GEOMAR,12,True
+132,Heidelberg U,12,True
+133,University of Newcastle,12,True
+134,GFZ-Potsdam,12,True
+135,Centre Georges-François Leclerc (CGFL) - Centre régional de lutte contre le cancer du réseau UNICANCER,11,False
+136,Leibniz-Fonds,11,True
+137,Charles University,10,True
+138,Consiglio Nazionale Delle Ricerche (CNR),10,True
+139,University of Gothenburg,10,True
+140,Leipzig U,10,True
+141,Swedish University of Agricultural Sciences,10,True
+142,EURECOM,10,False
+143,University of Liverpool,9,True
+144,University of Glasgow,9,True
+145,Frankfurt U,9,True
+146,University of Birmingham,9,True
+147,INSA Strasbourg - Institut National des Sciences Appliquées de Strasbourg,8,False
+148,Oldenburg U,8,True
+149,University of York,8,True
+150,Tampere University,8,True
+151,"WSL - Swiss Federal Institute for Forest, Snow and Landscape Research",8,True
+152,Wuerzburg U,8,True
+153,University of Reading,8,True
+154,University of Borås,7,True
+155,Aalto University,7,True
+156,ENAC - Ecole Nationale de l'Aviation Civile,7,False
+157,Giessen U,7,True
+158,ENGEES - Ecole nationale du Génie de l'Eau et de l'Environnement de Strasbourg,7,False
+159,King's College London,7,True
+160,Karolinska Institutet,6,True
+161,Université Panthéon-Sorbonne - Paris I,6,False
+162,ISARA - Institut Supérieur d'Agriculture et d'Agroalimentaire Rhône-Alpes,6,False
+163,University of Sheffield,6,True
+164,Bielefeld U,6,True
+165,University of Durham,6,True
+166,University of Milano-Bicocca,6,True
+167,University of Debrecen,5,True
+168,TU Dresden,5,True
+169,Ulm U,5,True
+170,Erlangen Nuernberg U,5,True
+171,Eawag - Swiss Federal Institute of Aquatic Science and Technology,5,True
+172,Université Polytechnique Hauts-de-France,5,False
+173,IST Austria,5,True
+174,Luleå University of Technology,5,True
+175,Université Jean Moulin - Lyon III,5,False
+176,Qatar National Library,5,True
+177,PIK-Potsdam,5,True
+178,TU Braunschweig,5,True
+179,University of Bern,5,True
+180,University of Jyväskylä,4,True
+181,University of Dundee,4,True
+182,University of Turku,4,True
+183,IMT Mines Alès,4,True
+184,FU Berlin,4,True
+185,Université Toulouse - Jean Jaurès,4,False
+186,Institute of Cancer Research,4,True
+187,Université Paris-Est Marne-la-Vallée,4,False
+188,Université Bordeaux Montaigne,4,False
+189,University of Exeter,4,True
+190,TU Darmstadt,4,True
+191,UFZ,4,True
+192,Regensburg U,4,True
+193,Münster U,4,True
+194,Saarland U,4,True
+195,University of Calgary,4,True
+196,Hamburg TUHH,3,True
+197,Dortmund TU,3,True
+198,Hannover U,3,True
+199,Konstanz U,3,True
+200,Kassel U,3,True
+201,MHB Fontane,3,True
+202,Liverpool School of Tropical Medicine,3,True
+203,"Queen Mary, University of London",3,True
+204,University of Bristol,3,True
+205,University of St Andrews,3,True
+206,Universitat de Barcelona,3,True
+207,VTT Technical Research Centre of Finland Ltd,3,True
+208,University of Ferrara,3,True
+209,Bayreuth U,3,True
+210,Alfred-Wegener-Institut,3,True
+211,Aston University,2,True
+212,Bangor University,2,True
+213,Bochum U,2,True
+214,Brunel University,2,True
+215,University of Bergen,2,True
+216,Université de la Nouvelle-Calédonie,2,False
+217,VSB - Technical University of Ostrava,2,True
+218,University of Leeds,2,True
+219,University of Bath,2,True
+220,TU Wien,2,True
+221,Mahidol University of Oxford Tropical Medicine Research Unit,2,True
+222,Université Paris-Dauphine - Paris IX,2,False
+223,Linköping University,2,True
+224,TU Berlin,2,True
+225,NILU - Norwegian Institute for Air Research,2,True
+226,Mälardalen University,2,True
+227,Northumbria University,2,True
+228,MDC,2,True
+229,Queen's University Belfast,2,True
+230,University of Southampton,2,True
+231,Free University of Bozen-Bolzano,2,True
+232,ENSICAEN - Ecole nationale supérieure de Caen,2,True
+233,DESY,2,True
+234,Åbo Akademi University,2,True
+235,Université de Montpellier - Paul Valéry,2,False
+236,HU Berlin,2,True
+237,HZDR,2,True
+238,Marburg U,2,True
+239,Université Sorbonne Nouvelle - Paris III - USN,2,False
+240,Centre Hospitalier Universitaire d'Amiens,2,False
+241,Stuttgart U,2,True
+242,Bonn U,1,True
+243,Veneto Institute of Oncology IOV IRCCS,1,True
+244,University of Gävle,1,True
+245,University of Kent,1,True
+246,University of Leicester,1,True
+247,TU Ilmenau,1,True
+248,University of Eastern Finland,1,True
+249,University of East Anglia,1,True
+250,"University of Chemistry and Technology, Prague",1,True
+251,University of Basel,1,True
+252,University of Zurich,1,True
+253,University of Tromsø - The Arctic University of Norway,1,True
+254,Università degli Studi di Modena e Reggio Emilia,1,True
+255,Salzburg U,1,True
+256,Rostock U,1,True
+257,RPTU Kaiserslautern-Landau,1,True
+258,University Medical Center Hamburg-Eppendorf,1,True
+259,University of Aberdeen,1,True
+260,University of Oulu,1,True
+261,University of Skövde,1,True
+262,TiHo Hannover,1,True
+263,Magdeburg U,1,True
+264,Norwegian University of Science and Technology,1,True
+265,Osnabrück U,1,True
+266,Passau U,1,
+267,TU Chemnitz,1,True
+268,Siegen U,1,True
+269,Norwegian Institute for Nature Research,1,True
+270,Trier U,1,True
+271,University of Strathclyde,1,True
+272,University of Sussex,1,True
+273,Leibniz-DPZ,1,True
+274,Lancaster University,1,True
+275,LSE,1,True
+276,Museum für Naturkunde Berlin,1,True
+277,Karlstad University,1,True
+278,Kiel U,1,True
+279,IFW Dresden,1,True
+280,Harvard U,1,True
+281,Greifswald U,1,True
+282,HHU Düsseldorf,1,True
+283,Leibniz-IGB,1,True
+284,LSHTM,1,True
+285,Fraunhofer-Gesellschaft,1,True
+286,Empa - Swiss Federal Laboratories for Materials Science and Technology,1,True
+287,Duisburg-Essen U,1,True
+288,GSI,1,True
+289,Friedrich-Schiller-Universität Jena,1,True
+290,Fraunhofer-Gesellschaft Publishing Fund,1,True
+291,Dalarna University,1,True
+292,Catholic University of Eichstätt-Ingolstadt,1,True
+293,ZHAW Zurich University of Applied Sciences,1,True
+294,Örebro University,1,True

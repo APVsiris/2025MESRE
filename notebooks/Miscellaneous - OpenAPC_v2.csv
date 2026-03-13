@@ -1,0 +1,361 @@
+institution,doi,Not France
+CNRS - Centre national de la recherche scientifique,6201,FALSE
+INSERM - Institut National de la Santé et de la Recherche Médicale,4763,FALSE
+"INRAE - Institut national de recherche pour l’agriculture, l’alimentation et l’environnement",2522,FALSE
+Aix-Marseille Université,1215,FALSE
+IRD - Institut de Recherche pour le Développement,925,FALSE
+Institut Pasteur,901,FALSE
+CEA - Commissariat à l'énergie atomique et aux énergies alternatives,675,FALSE
+Sorbonne Université,637,FALSE
+Université de Lorraine,507,FALSE
+Université de Lille,502,FALSE
+HCL - Hospices civils de Lyon,494,FALSE
+Université de Bordeaux,490,FALSE
+Bill & Melinda Gates Foundation,486,TRUE
+CIRAD - Centre de coopération internationale en recherche agronomique pour le développement,484,FALSE
+Université Paris Cité,447,FALSE
+Swiss National Science Foundation (SNSF),445,TRUE
+INRIA - Institut National de Recherche en Informatique et en Automatique,426,FALSE
+Université Claude Bernard - Lyon I,377,FALSE
+FWF - Austrian Science Fund,302,TRUE
+UCL,290,TRUE
+IFREMER - Institut Français de Recherche pour l'Exploitation de la Mer,276,FALSE
+Université de Bourgogne,261,FALSE
+Université Clermont Auvergne,259,FALSE
+Nantes Université,256,FALSE
+Université de Rennes,237,FALSE
+Wellcome Trust,232,TRUE
+Université de Strasbourg,223,FALSE
+Université de Tours,216,FALSE
+Université Toulouse III - Paul Sabatier,209,FALSE
+Université de Reims Champagne-Ardenne,205,FALSE
+University of Liège,180,TRUE
+Centre Hospitalier Universitaire de Rennes,178,FALSE
+MNHN - Muséum National d'Histoire Naturelle,158,FALSE
+Université de Bretagne Occidentale - UBO,155,FALSE
+IRSN - Institut de Radioprotection et de Sûreté Nucléaire,154,FALSE
+Université de Franche-Comté,154,FALSE
+University of Oxford,154,TRUE
+University of Edinburgh,145,TRUE
+ETH Zurich,145,TRUE
+Université d'Angers,144,FALSE
+Université Côte d'Azur - UniCA,138,FALSE
+University of Cambridge,138,TRUE
+Université de Caen Normandie,131,FALSE
+INRA - Institut National de la Recherche Agronomique,130,FALSE
+Imperial College London,119,TRUE
+FZJ - ZB,111,TRUE
+ENS Lyon - Ecole normale supérieure de Lyon,110,FALSE
+ENS Paris - Ecole normale supérieure de Paris,110,FALSE
+Université Gustave Eiffel,108,FALSE
+Université de La Réunion,107,FALSE
+Université Pierre et Marie Curie - Paris VI,107,FALSE
+Université de Montpellier,104,FALSE
+ONERA - Office National d'Etudes et de Recherches Aérospatiales - The French Aerospace Lab,100,FALSE
+MPG,98,TRUE
+ESRF - European Synchrotron Radiation Facility,97,FALSE
+ILL - Institut Laue-Langevin,92,FALSE
+Stockholm University,92,TRUE
+Milano U,91,TRUE
+Université de Pau et des Pays de l'Adour - UPPA,89,FALSE
+Ecole centrale de Lyon,89,FALSE
+University of Manchester,88,TRUE
+Université de Versailles Saint-Quentin-en-Yvelines,85,FALSE
+KIT,83,TRUE
+Toulouse INP - Institut National Polytechnique de Toulouse,82,FALSE
+Université du Littoral Côte d'Opale,81,FALSE
+IMT Atlantique Bretagne - Pays de la Loire,81,FALSE
+Université de Picardie Jules Verne,80,FALSE
+Uppsala University,74,TRUE
+Université d'Orléans,73,FALSE
+University of Helsinki,70,TRUE
+DLR,70,TRUE
+Charité - Universitätsmedizin Berlin,70,TRUE
+Freiburg U,70,TRUE
+Université de Poitiers,69,FALSE
+Université de technologie de Troyes,68,FALSE
+Muenchen LMU,63,TRUE
+TU Muenchen,63,TRUE
+Consejo Superior de Investigaciones Cientificas (CSIC),62,TRUE
+Université d'Evry-Val-d'Essonne,59,FALSE
+"ANSES - Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail",58,FALSE
+OpenAIRE,58,TRUE
+Goettingen U,55,TRUE
+Karolinska Institutet,55,TRUE
+Lund University,54,TRUE
+Université Savoie Mont Blanc,54,FALSE
+Ecole polytechnique,54,FALSE
+Heidelberg U,53,TRUE
+Frankfurt U,53,TRUE
+Potsdam U,52,TRUE
+ANSM - Agence Nationale de Sécurité des Médicaments et des produits de santé,51,FALSE
+Université des Antilles,51,FALSE
+Université Paris Diderot - Paris VII,50,FALSE
+GEOMAR,50,TRUE
+Université de Toulon,49,FALSE
+King's College London,49,TRUE
+University of Lausanne,48,TRUE
+Leipzig U,47,TRUE
+ESPCI - Ecole supérieure de physique et de chimie industrielles,46,FALSE
+CNAM - Conservatoire national des arts et métiers,46,FALSE
+Avignon Université,44,FALSE
+Université Paris Descartes - Paris V,44,FALSE
+University of Glasgow,42,TRUE
+Université de Nîmes,42,FALSE
+Centre Hospitalier Universitaire de Lille,42,FALSE
+University of Gothenburg,42,TRUE
+Tuebingen U,41,TRUE
+TU Dresden,41,TRUE
+Université de Lille II Droit et Santé,41,FALSE
+ENSTA Bretagne - Ecole nationale supérieure de techniques avancées - Bretagne,40,FALSE
+INSA Lyon - Institut National des Sciences Appliquées de Lyon,40,FALSE
+Consiglio Nazionale Delle Ricerche (CNR),40,TRUE
+Mines Paris - Ecole nationale supérieure des Mines de Paris,40,FALSE
+KTH Royal Institute of Technology,40,TRUE
+Université de Rennes II Haute-Bretagne,39,FALSE
+Swedish University of Agricultural Sciences,39,TRUE
+La Rochelle Université,39,FALSE
+Giessen U,38,TRUE
+Charles University,38,TRUE
+Bremen U,38,TRUE
+Université de Paris Ouest Nanterre La Défense - Paris X,38,FALSE
+Qatar National Library,37,TRUE
+Cardiff University,36,TRUE
+LNE - Laboratoire National de Métrologie et d'Essais,36,FALSE
+Erlangen Nuernberg U,36,TRUE
+Aalto University,35,TRUE
+JGU Mainz,35,TRUE
+Université de Haute-Alsace,34,FALSE
+EZUS - LYON,33,FALSE
+University of Liverpool,32,TRUE
+Leibniz-Fonds,32,TRUE
+University of Birmingham,32,TRUE
+Wuerzburg U,31,TRUE
+Le Mans Université,30,FALSE
+AgroParisTech,30,FALSE
+University of Exeter,29,TRUE
+University of Southampton,28,TRUE
+GFZ-Potsdam,27,TRUE
+University of Newcastle,27,TRUE
+University of Sheffield,27,TRUE
+Bielefeld U,26,TRUE
+CentraleSupélec,26,FALSE
+EnvA - Ecole nationale vétérinaire d'Alfort,26,FALSE
+Université Grenoble Alpes,26,FALSE
+Linköping University,25,TRUE
+Université de Technologie de Compiègne,25,FALSE
+Marburg U,25,TRUE
+University of Reading,25,TRUE
+Université de Bretagne Sud - UBS,25,FALSE
+Université Paris-Est Créteil Val de Marne - Paris XII,25,FALSE
+HZDR,24,TRUE
+Ulm U,24,TRUE
+Tampere University,24,TRUE
+University of Milano-Bicocca,23,TRUE
+Bayreuth U,23,TRUE
+FU Berlin,23,TRUE
+UFZ,22,TRUE
+Regensburg U,22,TRUE
+Università degli Studi di Modena e Reggio Emilia,21,TRUE
+Konstanz U,21,TRUE
+University of York,21,TRUE
+Oldenburg U,20,TRUE
+University of Turku,20,TRUE
+Duisburg-Essen U,20,TRUE
+Sciences Po Paris - Institut d'Etudes Politiques de Paris,19,FALSE
+Université Vincennes-Saint Denis - Paris VIII,19,FALSE
+"IFSTTAR - Institut Français des Sciences et Technologies des Transports, de l’aménagement et des Réseaux",19,FALSE
+DESY,19,TRUE
+Queen's University Belfast,19,TRUE
+Münster U,19,TRUE
+Universitat de Barcelona,19,TRUE
+Université de Perpignan Via Domitia,18,FALSE
+IRSTEA - Institut de Recherche en Sciences et Technologies pour l'Environnement et l'Agriculture,18,FALSE
+University of Debrecen,18,TRUE
+Saarland U,18,TRUE
+Université Le Havre Normandie,17,FALSE
+Magdeburg U,17,TRUE
+Université Lumière - Lyon II,17,FALSE
+University of Bristol,17,TRUE
+University of Leeds,17,TRUE
+University of Ferrara,16,TRUE
+University of Bern,16,TRUE
+"WSL - Swiss Federal Institute for Forest, Snow and Landscape Research",16,TRUE
+Bochum U,15,TRUE
+Stuttgart U,15,TRUE
+EHESP - Ecole des hautes études en santé publique,15,FALSE
+Free University of Bozen-Bolzano,14,TRUE
+University of Jyväskylä,14,TRUE
+Friedrich-Schiller-Universität Jena,14,TRUE
+Centre Hospitalier Universitaire d'Orléans,14,FALSE
+Université de Lille I Sciences et technologies,14,FALSE
+Université de Limoges,14,FALSE
+PIK-Potsdam,14,TRUE
+MDC,14,TRUE
+VTT Technical Research Centre of Finland Ltd,13,TRUE
+University Medical Center Hamburg-Eppendorf,13,TRUE
+HU Berlin,13,TRUE
+TU Braunschweig,13,TRUE
+University of Dundee,13,TRUE
+TU Berlin,13,TRUE
+RWTH Aachen,13,TRUE
+Brunel University,12,TRUE
+Luleå University of Technology,12,TRUE
+MLU Halle-Wittenberg,12,FALSE
+Institute of Cancer Research,12,TRUE
+University of St Andrews,11,TRUE
+University of Durham,11,TRUE
+Centre Georges-François Leclerc (CGFL) - Centre régional de lutte contre le cancer du réseau UNICANCER,11,FALSE
+EURECOM,11,FALSE
+IST Austria,11,TRUE
+Greifswald U,11,TRUE
+TU Darmstadt,11,TRUE
+University of Oulu,10,TRUE
+Hannover U,10,TRUE
+Fraunhofer-Gesellschaft,9,TRUE
+University of Borås,9,TRUE
+Mahidol University of Oxford Tropical Medicine Research Unit,9,TRUE
+HHU Düsseldorf,9,TRUE
+Kiel U,9,TRUE
+ISARA - Institut Supérieur d'Agriculture et d'Agroalimentaire Rhône-Alpes,9,FALSE
+TU Wien,9,TRUE
+"Queen Mary, University of London",9,TRUE
+University of Calgary,8,TRUE
+HS Bielefeld,8,FALSE
+Eawag - Swiss Federal Institute of Aquatic Science and Technology,8,TRUE
+University of Eastern Finland,8,TRUE
+INSA Strasbourg - Institut National des Sciences Appliquées de Strasbourg,8,FALSE
+MHB Fontane,8,TRUE
+Leibniz-IGB,8,TRUE
+Rostock U,8,TRUE
+TiHo Hannover,8,TRUE
+University of Nottingham,8,FALSE
+University of Bath,7,TRUE
+ENAC - Ecole Nationale de l'Aviation Civile,7,FALSE
+ENGEES - Ecole nationale du Génie de l'Eau et de l'Environnement de Strasbourg,7,FALSE
+Lancaster University,7,TRUE
+Université de la Nouvelle-Calédonie,7,FALSE
+Empa - Swiss Federal Laboratories for Materials Science and Technology,6,TRUE
+Université Panthéon-Sorbonne - Paris I,6,FALSE
+University of Warwick,6,TRUE
+Osnabrück U,6,TRUE
+Trier U,6,TRUE
+Plymouth University,6,FALSE
+Alfred-Wegener-Institut,5,TRUE
+Aston University,5,TRUE
+Salzburg U,5,TRUE
+University of Leicester,5,TRUE
+University of East Anglia,5,TRUE
+Oxford University Clinical Research Unit,5,TRUE
+Kassel U,5,TRUE
+University of Sussex,5,TRUE
+LSE,5,TRUE
+Fraunhofer-Gesellschaft Publishing Fund,5,TRUE
+University of Strathclyde,5,TRUE
+TU Chemnitz,4,TRUE
+The Open University,4,FALSE
+Liverpool School of Tropical Medicine,4,TRUE
+Mälardalen University,4,TRUE
+University of Zurich,4,TRUE
+Northumbria University,4,TRUE
+NILU - Norwegian Institute for Air Research,4,TRUE
+VSB - Technical University of Ostrava,4,TRUE
+Bonn U,4,TRUE
+Leibniz-ZALF,4,TRUE
+Bangor University,4,TRUE
+University of Tromsø - The Arctic University of Norway,4,TRUE
+Université Bordeaux Montaigne,4,FALSE
+Leibniz-ZMT,4,FALSE
+Leibniz-IZW,4,FALSE
+Université Jean Moulin - Lyon III,4,FALSE
+Université Polytechnique Hauts-de-France,4,FALSE
+GSI,4,TRUE
+Hamburg TUHH,4,TRUE
+Åbo Akademi University,4,TRUE
+Malmö University,4,TRUE
+LSHTM,4,TRUE
+Koeln U,4,FALSE
+Université Toulouse - Jean Jaurès,4,FALSE
+Dortmund TU,4,TRUE
+Örebro University,3,TRUE
+Aberystwyth University,3,FALSE
+Siegen U,3,TRUE
+University of Gävle,3,TRUE
+Natural Resources Institute Finland,3,FALSE
+Linnaeus University,3,TRUE
+Hohenheim U,3,FALSE
+IMT Mines Alès,3,TRUE
+TU Clausthal,3,TRUE
+University of Bergen,3,TRUE
+Norwegian Institute for Nature Research,2,TRUE
+Scuola Normale Superiore,2,FALSE
+University of Oslo,2,FALSE
+Bamberg U,2,FALSE
+University of Basel,2,TRUE
+Virginia Tech,2,TRUE
+Brandenburg University of Technology Cottbus-Senftenberg,2,FALSE
+Bauhaus-Universität Weimar,2,FALSE
+Centre Hospitalier Universitaire d'Amiens,2,FALSE
+Université de Montpellier - Paul Valéry,2,FALSE
+Universität Erfurt,2,FALSE
+Karlstad University,2,TRUE
+Université Paris-Dauphine - Paris IX,2,FALSE
+ENSICAEN - Ecole nationale supérieure de Caen,2,TRUE
+Cranfield University,2,FALSE
+Université Sorbonne Nouvelle - Paris III - USN,2,FALSE
+Veneto Institute of Oncology IOV IRCCS,2,TRUE
+University of Aberdeen,2,TRUE
+University of Kent,2,TRUE
+Swansea University,2,TRUE
+University of Loughborough,2,FALSE
+Université Paris-Est Marne-la-Vallée,2,FALSE
+Leibniz-BIPS,2,FALSE
+Leibniz-IPK,2,FALSE
+Norwegian Institute of Public Health,2,FALSE
+RPTU Kaiserslautern-Landau,2,TRUE
+Bern University of Applied Sciences,2,FALSE
+University West,1,FALSE
+"University of Chemistry and Technology, Prague",1,TRUE
+University of Applied Sciences Savonia,1,FALSE
+Augsburg U,1,FALSE
+Université de la Polynésie française,1,FALSE
+Swedish School of Sport and Health Sciences,1,FALSE
+Södertörns University,1,FALSE
+TH Ingolstadt,1,FALSE
+TH Brandenburg,1,FALSE
+TH Köln,1,FALSE
+TH Wildau,1,FALSE
+Paul-Drude-Institut für Festkörperelektronik,1,FALSE
+TU Ilmenau,1,TRUE
+Norwegian University of Science and Technology,1,TRUE
+Norwegian University of Life Sciences,1,TRUE
+University of Skövde,1,TRUE
+University of Portsmouth,1,FALSE
+Royal Holloway,1,FALSE
+SOAS,1,FALSE
+TU Bergakademie Freiberg,1,FALSE
+University of Huddersfield,1,FALSE
+PSI - Paul Scherrer Institute,1,FALSE
+University of the West of England,1,FALSE
+Leibniz-DPZ,1,TRUE
+University of Surrey,1,FALSE
+Universität der Bundeswehr München,1,FALSE
+Mannheim U,1,FALSE
+Museum für Naturkunde Berlin,1,TRUE
+Laurea University of Applied Sciences,1,FALSE
+Keele University,1,FALSE
+Johannes Kepler University Linz,1,FALSE
+Heriot-Watt University,1,FALSE
+Hochschule Luzern,1,FALSE
+Helmholtz Zentrum München,1,FALSE
+Harvard U,1,TRUE
+LAB University of Applied Sciences,1,FALSE
+Institut für Arbeitsmarkt- und Berufsforschung,1,TRUE
+INM - Leibniz-Institut für Neue Materialien,1,FALSE
+IFW Dresden,1,TRUE
+HAW Hamburg,1,FALSE
+HS Düsseldorf,1,FALSE
+Dalarna University,1,TRUE
+Forschungsinstitut für Nutztierbiologie,1,FALSE
+Catholic University of Eichstätt-Ingolstadt,1,TRUE
+ZHAW Zurich University of Applied Sciences,1,TRUE

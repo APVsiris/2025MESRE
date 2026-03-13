@@ -1,6 +1,10 @@
 # Data
-/data
 /data/interim/
+/data/raw/
+/data/external/
+
+# Random
+/affilgood
 
 # Mac OS-specific storage files
 .DS_Store
